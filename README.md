@@ -6,4 +6,4 @@
 5. Siti Marsiah (2310631250033)
 
 # Sistem Manajemen Inventaris Barang
-Kelompok kami membuat Sistem manajamen inventaris barang yang ditujukan kepada perusahan ataupun instansi yang membutuhkan satu sistem yang simple dan mudah di pelajari. Sistem ini dibuat dengan PHP serta dilengkapi dengan CSS dan Bootstrap agar tampilan nya menjadi professional
+Kelompok kami membuat Sistem manajamen inventaris barang yang ditujukan kepada perusahaan ataupun instansi yang membutuhkan suatu sistem yang simple dan mudah di pelajari. Sistem ini dibuat dengan PHP serta dilengkapi dengan CSS dan Bootstrap agar tampilan nya menjadi professional
